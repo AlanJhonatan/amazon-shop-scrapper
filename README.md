@@ -10,5 +10,5 @@
 
 ## Referências que usei para realizar o projeto
 
-(HTTP CORS - MDN)[https://developer.mozilla.org/pt-PT/docs/Web/HTTP/CORS]
-
+[HTTP CORS - MDN](https://developer.mozilla.org/pt-PT/docs/Web/HTTP/CORS)
+[Data Mining](https://fia.com.br/blog/data-mining/)
