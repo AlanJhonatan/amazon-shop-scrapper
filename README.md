@@ -13,7 +13,7 @@
 <p>Dado um termo de busca, o programa procura e captura as informações de <strong>todos os produtos</strong> na loja da Amazon de forma automatizada extraindo como informação principal o <strong><i>Nome do Produto e Valor</i></strong> do mesmo e também algumas <strong>informações extras</strong>.</p>
 
 
-#### Sobre a busca e extração de informações
+### Sobre a busca e extração de informações
 <p>O programa faz todo o trabalho de buscar as informações usando as bibliotecas <strong>requests</strong> e <strong>BeautifulSoup</strong>. Após isso o tratamento e exportação dos dados é feito usando a biblioteca <strong>pandas</strong>.</p>
 
 <ul>
@@ -24,8 +24,8 @@
   <li>Limpo e Serializo os dados em uma List de Dict para deixar fácil o manuseio usando a biblioteca <i>pandas</i>;</li>
   <li>E assim, finalizo exportando (tanto em csv quanto em excel) usando a biblioteca <i>pandas</i>.</li>
 </ul>
-#### Problemas que tive durante o processo:
 
+### Problemas que tive durante o processo:
 <p><i>Eu diria que o maior problema foi tentar usar o Selenium logo de cara como opção principal (me senti tentando matar uma barata com uma bazuca...).</i></p>
 
 <ul>
