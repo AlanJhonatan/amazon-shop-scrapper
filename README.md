@@ -43,22 +43,22 @@
 <a href="https://docs.microsoft.com/pt-br/sql/data-quality-services/data-cleansing?view=sql-server-ver15#:~:text=Limpeza%20de%20dados%20%C3%A9%20o,fazer%20altera%C3%A7%C3%B5es%20assim%20aos%20dados.">Data Cleansing - Microsoft</a><br>
 <a href="https://numpy.org/doc/stable/reference/generated/numpy.array.html">Numpy Array - API Reference</a><br>
 
-<br>Mozilla Web Docs<br>
+<br><strong><u>Mozilla Web Docs</strong></u><br>
 <a href="https://developer.mozilla.org/pt-PT/docs/Web/HTTP/CORS">HTTP CORS - MDN</a><br>
 <a href="https://developer.mozilla.org/pt-BR/docs/Web/HTTP/Headers/User-Agent">User-Agent - MDN</a><br>
 <a href="https://developer.mozilla.org/en-US/docs/Web/HTTP/Browser_detection_using_the_user_agent">Browser detection using the user agent - MDN</a><br>
 
 
-GeekForGeeks<br>
+<strong><u>GeekForGeeks</strong></u><br>
 <a href="https://www.geeksforgeeks.org/response-url-python-requests/">Python response url - GeekForGeeks</a><br>
 <a href="https://www.geeksforgeeks.org/convert-a-numpy-array-into-a-csv-file/">Numpy Array to csv file - GeekForGeeks</a><br>
 
-pandas<br>
+<strong><u>pandas</strong></u><br>
 <a href="https://pandas.pydata.org/docs/reference/index.html">pandas - API Reference</a><br>
 <a href="https://pandas.pydata.org/pandas-docs/stable/reference/api/pandas.DataFrame.from_dict.html">pandas.DataFram.from_dict()</a><br>
 <a href="https://pandas.pydata.org/pandas-docs/stable/reference/api/pandas.DataFrame.to_excel.html">pandas.DataFrame.to_excel()</a><br>
 
-StackOverflow<br>
+<strong><u>StackOverflow</u></strong><br>
 <a href="https://stackoverflow.com/questions/2957013/beautifulsoup-just-get-inside-of-a-tag-no-matter-how-many-enclosing-tags-there">bs4 - find all tags</a><br>
 <a href="https://stackoverflow.com/questions/6081008/dump-a-numpy-array-into-a-csv-file">Numpy - dump array into csv</a><br>
 <a href="https://stackoverflow.com/questions/48053207/writing-single-csv-header-with-pandas">Writing csv headers with pandas</a><br>
