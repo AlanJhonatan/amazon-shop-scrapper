@@ -36,5 +36,31 @@
 
 ## Referências que usei para realizar o desafio
 
-<a href="https://developer.mozilla.org/pt-PT/docs/Web/HTTP/CORS">HTTP CORS - MDN</a>
-<a href="https://fia.com.br/blog/data-mining/">Data Mining</a>
+<a href="https://fia.com.br/blog/data-mining/">Data Mining</a><br>
+<a href="https://www.crummy.com/software/BeautifulSoup/bs4/doc/">BeautifulSoup Documentation</a><br>
+<a href="https://requests.readthedocs.io/pt_BR/latest/user/quickstart.html#cabecalhos-personalizados">Requests - Cabeçalhos Personalizados</a><br>
+<a href="https://requests.readthedocs.io/pt_BR/latest/user/advanced.html">Requests - Uso avançado</a><br>
+<a href="https://docs.microsoft.com/pt-br/sql/data-quality-services/data-cleansing?view=sql-server-ver15#:~:text=Limpeza%20de%20dados%20%C3%A9%20o,fazer%20altera%C3%A7%C3%B5es%20assim%20aos%20dados.">Data Cleansing - Microsoft</a><br>
+<a href="https://numpy.org/doc/stable/reference/generated/numpy.array.html">Numpy Array - API Reference</a><br>
+
+<p>Mozilla Web Docs</p>
+<a href="https://developer.mozilla.org/pt-PT/docs/Web/HTTP/CORS">HTTP CORS - MDN</a><br>
+<a href="https://developer.mozilla.org/pt-BR/docs/Web/HTTP/Headers/User-Agent">User-Agent - MDN</a><br>
+<a href="https://developer.mozilla.org/en-US/docs/Web/HTTP/Browser_detection_using_the_user_agent">Browser detection using the user agent - MDN</a><br>
+
+
+<p>GeekForGeeks</p>
+<a href="https://www.geeksforgeeks.org/response-url-python-requests/">Python response url - GeekForGeeks</a><br>
+<a href="https://www.geeksforgeeks.org/convert-a-numpy-array-into-a-csv-file/">Numpy Array to csv file - GeekForGeeks</a><br>
+
+<p>pandas</p>
+<a href="https://pandas.pydata.org/docs/reference/index.html">pandas - API Reference</a><br>
+<a href="https://pandas.pydata.org/pandas-docs/stable/reference/api/pandas.DataFrame.from_dict.html">pandas.DataFram.from_dict()</a><br>
+<a href="https://pandas.pydata.org/pandas-docs/stable/reference/api/pandas.DataFrame.to_excel.html">pandas.DataFrame.to_excel()</a><br>
+
+<p>StackOverflow</p>
+<a href="https://stackoverflow.com/questions/2957013/beautifulsoup-just-get-inside-of-a-tag-no-matter-how-many-enclosing-tags-there">bs4 - find all tags</a><br>
+<a href="https://stackoverflow.com/questions/6081008/dump-a-numpy-array-into-a-csv-file">Numpy - dump array into csv</a><br>
+<a href="https://stackoverflow.com/questions/48053207/writing-single-csv-header-with-pandas">Writing csv headers with pandas</a><br>
+<a href="https://stackoverflow.com/questions/44691524/write-a-2d-array-to-a-csv-file-with-delimiter">Write 2d array into a csv with delimiter</a><br>
+<a href="https://stackoverflow.com/questions/19124601/pretty-print-an-entire-pandas-series-dataframe">pandas - Pretty print dataframe</a><br>
