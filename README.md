@@ -40,7 +40,9 @@
 <ul>
   <li>Primeiramente tentei interceptar a rota em que a Amazon buscava os dados dos produtos para preencher dinamicamente. Porém os dados eram muito sujos (com varios     caracteres à mais) e sendo assim mais difícil de manusear. <strong>Então foi aí que optei por lidar com o <i>html</i> da página para extrair as                       informações</strong>.
   </li>
-  <li>A partir disso o problema foi fazer a request em python, pois eu não sabia como passar na header o "User-Agent" de forma personalizada.</li>
+  <li>A partir disso o problema foi fazer a request em python, pois eu não sabia como passar na header o "User-Agent" de forma personalizada, assim, a Amazon não permitia eu receber o html com os produtos e devolvia um status 403 e uma mensagem padrão falando sobre robôs, automatização e etc.</li>
+  <li>Depois que li algumas documentações no site da Mozilla e também na documentação da lib requests, consegui fazer a request personalizada.</li>
+  <li>O último problema que enfrentei (e que perdi várias horas) foi que a página html só retornava metade dos produtos... depois de destrinchar o código todo percebi que na header eu estava passando o <strong>User Agent</strong> de um navegador mobile (que copiei e colei da documentação da mozilla)... e por questões de responsividade e etc... já sabe...</li>
 </ul>
 <br>
 <br>
