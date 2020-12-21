@@ -8,15 +8,13 @@
   Nele estou documentando com carinho cada passo-a-passo que dou.
 </p>
 
-<br>
-<br/>
-
 ## Como a solução funciona atualmente
 
 <p>Dado um termo de busca, o programa procura e captura as informações de <strong>todos os produtos</strong> na loja da Amazon de forma automatizada extraindo como informação principal o <strong><i>Nome do Produto e Valor</i></strong> do mesmo e também algumas <strong>informações extras</strong>.</p>
 
 <br>
 <br/>
+
 ### Sobre a busca e extração de informações
 <p>O programa faz todo o trabalho de buscar as informações usando as bibliotecas <strong>requests</strong> e <strong>BeautifulSoup</strong>. Após isso o tratamento e exportação dos dados é feito usando a biblioteca <strong>pandas</strong>.</p>
 <br>
