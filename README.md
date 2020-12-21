@@ -36,5 +36,5 @@
 
 ## Referências que usei para realizar o desafio
 
-[HTTP CORS - MDN](https://developer.mozilla.org/pt-PT/docs/Web/HTTP/CORS)
-[Data Mining](https://fia.com.br/blog/data-mining/)
+<p>[HTTP CORS - MDN](https://developer.mozilla.org/pt-PT/docs/Web/HTTP/CORS)</p>
+<p>[Data Mining](https://fia.com.br/blog/data-mining/)</p>
